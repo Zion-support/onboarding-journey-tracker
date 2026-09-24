@@ -18,3 +18,5 @@ Part of the [Zion Tech Group App Network](https://github.com/Zion-support/zion-a
 
 ---
 © 2026 [Zion Tech Group](https://ziontechgroup.com/)
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Master Directory](https://github.com/Zion-support/zion-app-network) · [CX & Support Suite Spotlight](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SUPPORT_CX.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
